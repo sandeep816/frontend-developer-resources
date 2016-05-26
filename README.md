@@ -33,3 +33,30 @@ frontend developer resources
 * [960 Grid System](http://960.gs/)
 * [Tuktuk](http://tuktuk.tapquo.com/)
 * [Responsive Aeon](http://newaeonweb.com.br/responsiveaeon/)
+
+## CSS Resets
+
+* [CSS Resets](https://10up.github.io/sanitize.css/)
+* [Sanitize.css](https://10up.github.io/sanitize.css/)
+* [Normalize.css](http://necolas.github.io/normalize.css/)
+* [Eric Meyer's Reset CSS](http://html5doctor.com/html-5-reset-stylesheet/)
+* [HTML5 Doctor Reset CSS](http://yuilibrary.com/yui/docs/cssreset/)
+
+## Icon Fonts
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [Typicons](http://typicons.com/)
+* [LivIcons](http://livicons.com/)
+* [IconMelon](http://iconmelon.com/)
+* [Iconic](https://useiconic.com/)
+* [Octicons](http://octicons.github.com/)
+* [DevIcons](http://vorillaz.github.io/devicons/)
+* [NounProject](http://thenounproject.com/)
+
+## Playgrounds
+
+* [JSFiddle](http://jsfiddle.net/)
+* [CodePen](http://codepen.io/)
+* [JS Bin](http://jsbin.com/)
+* [Dabblet](http://dabblet.com/)
+* [GitHub Gists](https://gist.github.com/)
+* [Mozilla Thimble](https://thimble.webmaker.org/)
