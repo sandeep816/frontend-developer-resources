@@ -1,2 +1,2 @@
-# frontend-developer-resources
+# Frontend Developer Resources
 frontend developer resources
